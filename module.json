@@ -12,13 +12,15 @@
 				"id": "cosmere-rpg-playtest",
 				"type": "module",
 				"compatibility": {}
-			}
-		],
-		"systems": [
+			},
 			{
 				"id": "cosmere-rpg",
 				"type": "system",
-				"compatibility": {}
+				"manifest": "https://raw.githubusercontent.com/stanavdb/cosmere-rpg/main/src/system.json",
+				"compatibility": {
+					"verified": "0.2.1",
+					"minimum": "0.2.1"
+				}
 			}
 		],
 		"recommends": [
