@@ -1,7 +1,7 @@
 {
 	"id": "cosmere-radiant-homebrew",
 	"title": "Cosmere RPG - Radiant Paths Homebrew",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"compatibility": {
 		"minimum": "12",
 		"verified": "12"
@@ -60,5 +60,5 @@
 	],
 	"url": "https://github.com/Khunkurisu/cosmere-radiant-homebrew",
 	"manifest": "https://raw.githubusercontent.com/Khunkurisu/cosmere-radiant-homebrew/master/module.json",
-	"download": "https://github.com/Khunkurisu/cosmere-radiant-homebrew/releases/download/v1.0.1/cosmere-radiant-homebrew-1.0.1.zip"
+	"download": "https://github.com/Khunkurisu/cosmere-radiant-homebrew/releases/download/v1.0.2/cosmere-radiant-homebrew-1.0.2.zip"
 }
