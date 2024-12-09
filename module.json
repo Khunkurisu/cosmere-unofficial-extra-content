@@ -37,6 +37,17 @@
 	"esmodules": [
 		"module/cosmere-radiant-homebrew.mjs"
 	],
+	"packFolders": [
+		{
+			"name": "Cosmere Radiant Homebrew",
+			"packs": [
+				"radiant-paths",
+				"surges"
+			],
+			"sorting": "m",
+			"color": "#663399"
+		}
+	],
 	"packs": [
 		{
 			"name": "surges",
