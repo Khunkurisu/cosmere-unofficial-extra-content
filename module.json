@@ -1,8 +1,8 @@
 {
 	"id": "cosmere-radiant-homebrew",
 	"title": "Cosmere RPG - Radiant Paths Homebrew",
-	"version": "1.1.0",
-	"download": "https://github.com/Khunkurisu/cosmere-radiant-homebrew/releases/download/v1.1.0/cosmere-radiant-homebrew-1.1.0.zip",
+	"version": "1.1.1",
+	"download": "https://github.com/Khunkurisu/cosmere-radiant-homebrew/releases/download/v1.1.1/cosmere-radiant-homebrew-1.1.1.zip",
 	"url": "https://github.com/Khunkurisu/cosmere-radiant-homebrew",
 	"manifest": "https://raw.githubusercontent.com/Khunkurisu/cosmere-radiant-homebrew/master/module.json",
 	"compatibility": {
@@ -36,6 +36,17 @@
 	},
 	"esmodules": [
 		"module/cosmere-radiant-homebrew.mjs"
+	],
+	"packFolders": [
+		{
+			"name": "Cosmere Radiant Homebrew",
+			"packs": [
+				"radiant-paths",
+				"surges"
+			],
+			"sorting": "m",
+			"color": "#663399"
+		}
 	],
 	"packs": [
 		{

@@ -1,10 +1,10 @@
 import { radiantSkills } from './skills.mjs';
 
-let workbenchFound = true;
-
 Hooks.once('init', () => {
-	if (!game.modules.get('cosmere-rpg-workbench')) {
-		workbenchFound = false;
+	globalThis.cosmereHomebrewRadiants = Object.assign(
+		game.modules.get('cosmere-radiant-homebrew')
+	);
+	if (!cosmereWorkbench) {
 		console.log("Cosmere RPG Workbench not found, registering skills manually.");
 		radiantSkills.forEach((skill) => {
 			cosmereRPG.api.registerSkill(skill);
@@ -13,7 +13,7 @@ Hooks.once('init', () => {
 });
 
 Hooks.once('ready', () => {
-	if (!workbenchFound) {
+	if (!cosmereWorkbench) {
 		radiantSkills.forEach((skill) => {
 			game.i18n.translations.COSMERE.Skill[skill.id] = skill.label;
 		});
