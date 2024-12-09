@@ -14,6 +14,7 @@
 			{
 				"id": "cosmere-rpg-playtest",
 				"type": "module",
+				"manifest": "https://raw.githubusercontent.com/stanavdb/cosmere-rpg-worlds/main/playtest/module.json",
 				"compatibility": {}
 			},
 			{
@@ -30,6 +31,7 @@
 			{
 				"id": "cosmere-rpg-bridge-nine-beta-adventure",
 				"type": "module",
+				"manifest": "https://raw.githubusercontent.com/Doc-Sun/Bridge_Nine_Adventure_CosmereRPG/main/module.json",
 				"compatibility": {}
 			}
 		]
