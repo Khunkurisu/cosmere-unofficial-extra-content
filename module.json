@@ -45,10 +45,12 @@
 			"name": "Cosmere Radiant Homebrew",
 			"packs": [
 				"radiant-paths",
+				"heroic-paths",
 				"surges"
 			],
 			"sorting": "m",
-			"color": "#663399"
+			"color": "#663399",
+			"folders": []
 		}
 	],
 	"packs": [
@@ -73,6 +75,17 @@
 				"PLAYER": "OBSERVER",
 				"ASSISTANT": "OWNER"
 			}
+		},
+		{
+			"name": "heroic-paths",
+			"label": "Heroic Paths",
+			"path": "packs/heroic-paths",
+			"type": "Item",
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			},
+			"system": "cosmere-rpg"
 		}
 	]
 }
