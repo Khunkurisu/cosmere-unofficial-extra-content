@@ -8,3 +8,10 @@ If my module [Cosmere RPG Workbench](https://github.com/Khunkurisu/cosmere-rpg-w
 Manifest URL:
 
 `https://raw.githubusercontent.com/Khunkurisu/cosmere-unofficial-extra-content/master/module.json`
+## Example images for talent trees
+### Warrior
+![image](https://github.com/user-attachments/assets/20d0e317-5b45-49b6-a238-86fc7388a48b)
+### Windrunner
+![image](https://github.com/user-attachments/assets/803c2824-53c2-465e-a3c1-8d9a9d0f9752)
+### Dustbringer
+![image](https://github.com/user-attachments/assets/ee646ef2-af56-4e10-b9d0-6742809d3a9a)
