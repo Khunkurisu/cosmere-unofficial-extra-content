@@ -1,8 +1,8 @@
 {
 	"id": "cosmere-radiant-homebrew",
 	"title": "Cosmere RPG - Unofficial Extra Content",
-	"version": "1.2.0",
-	"download": "https://github.com/Khunkurisu/cosmere-unofficial-extra-content/releases/download/v1.2.0/cosmere-unofficial-extra-content-1.2.0.zip",
+	"version": "1.3.0",
+	"download": "https://github.com/Khunkurisu/cosmere-unofficial-extra-content/releases/download/v1.3.0/cosmere-unofficial-extra-content-1.3.0.zip",
 	"url": "https://github.com/Khunkurisu/cosmere-unofficial-extra-content",
 	"manifest": "https://raw.githubusercontent.com/Khunkurisu/cosmere-unofficial-extra-content/master/module.json",
 	"compatibility": {
@@ -22,8 +22,8 @@
 				"type": "system",
 				"manifest": "https://raw.githubusercontent.com/stanavdb/cosmere-rpg/main/src/system.json",
 				"compatibility": {
-					"verified": "0.2.1",
-					"minimum": "0.2.1"
+					"verified": "0.3.0",
+					"minimum": "0.3.0"
 				}
 			}
 		],
@@ -32,7 +32,6 @@
 				"id": "cosmere-rpg-bridge-nine-beta-adventure",
 				"type": "module",
 				"manifest": "https://raw.githubusercontent.com/Doc-Sun/Bridge_Nine_Adventure_CosmereRPG/main/module.json",
-				"download": "https://github.com/Doc-Sun/Bridge_Nine_Adventure_CosmereRPG/releases/download/v1.1.1/cosmere-rpg-bridge-nine-beta-adventure-v1.1.1.zip",
 				"compatibility": {}
 			}
 		]
